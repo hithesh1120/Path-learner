@@ -34,7 +34,7 @@ You can run this project in two ways:
    git clone https://github.com/hithesh1120/Path-learner.git
    cd Path-learner
 
-2. Tech Stack Used
+ Tech Stack Used
 🖥️ Frontend
 
 HTML5 – page structure and semantic content
@@ -67,7 +67,7 @@ Global learning platforms and resources
 
 GitHub Pages – static hosting for the live demo
 
-3. Features Overview
+ Features Overview
 
 🏠 Landing Hero Section
 
@@ -115,7 +115,7 @@ One-paragraph explanation of what Path Learner does
 
 “Quick Links” and sample contact info
 
-4. How the JavaScript Works (High Level)
+ How the JavaScript Works (High Level)
 
 A set of JavaScript arrays/objects stores:
 
